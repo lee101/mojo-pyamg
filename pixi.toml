@@ -18,3 +18,7 @@ mojo = "==1.2.0.dev2026092605"
 python = "3.13.*"
 pytest = "*"
 numpy = "*"
+scipy = "*"
+
+[pypi-dependencies]
+pyamg = "==5.3.0"
